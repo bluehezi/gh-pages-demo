@@ -1,0 +1,1 @@
+"use strict";!function(o,l){console.log("hello world!")}(window,document),console.log(111);
